@@ -1,4 +1,4 @@
-# Boter Kaas Eieren met JavaFX
+**# Boter Kaas Eieren met JavaFX
 
 
 Dit is een eenvoudig **Tic-Tac-Toe** spel, gemaakt met **JavaFX**. Twee spelers kunnen om de beurt X of O plaatsen en proberen drie op een rij te krijgen. Het project is bedoeld om mijn kennis van Java en JavaFX te tonen.
