@@ -1,45 +1,36 @@
-**# Boter Kaas Eieren met JavaFX
+# Tic-Tac-Toe with JavaFX
 
+This is a simple **Tic-Tac-Toe** game built with **JavaFX**. Two players can take turns placing X or O and try to get three in a row. The project is intended to showcase my knowledge of Java and JavaFX.
 
-Dit is een eenvoudig **Tic-Tac-Toe** spel, gemaakt met **JavaFX**. Twee spelers kunnen om de beurt X of O plaatsen en proberen drie op een rij te krijgen. Het project is bedoeld om mijn kennis van Java en JavaFX te tonen.
+## Features
 
+* 1v1 local or against AI
+* Win or draw detection
+* Reset button to play again
+* Simple and clear GUI
 
-## Functies
+## Installation
 
+1. Clone the repository:
 
-- 1v1 lokaal of tegen AI
-- Detectie van winst of gelijkspel
-- Resetknop om opnieuw te spelen
-- Eenvoudige en overzichtelijke GUI
-
-
-## Installatie
-
-
-1. Clone de repository:
 ```bash
 git clone https://github.com/Altin-Recica/BoterKaasEierenJavaFX.git
 ```
-2. Open het project in je IDE.
-3. Voeg de JavaFX-bibliotheek toe aan je project.
-4. Run `Main.java` om te beginnen met spelen.
 
+2. Open the project in your IDE.
+3. Add the JavaFX library to your project.
+4. Run `Main.java` to start playing.
 
-## Technologieën
+## Technologies
 
+* Java
+* JavaFX
 
-- Java
-- JavaFX
+## Author
 
-
-## Auteur
-
-
-**Altin Recica** – Studieproject KDG Hogeschool
-
+**Altin Recica** – Study project at KDG University College
 
 ## Screenshot
 
-
-![Spelvoorbeeld](https://user-images.githubusercontent.com/90509576/206483019-d659a07d-7040-450a-9d8e-2909107162cb.png)
+![Game Example](https://user-images.githubusercontent.com/90509576/206483019-d659a07d-7040-450a-9d8e-2909107162cb.png)
 ![Diagram](https://user-images.githubusercontent.com/25066612/208407030-d6a150f6-52cd-4cdc-b783-22300cbbadc4.png)
